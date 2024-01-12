@@ -1,0 +1,22 @@
+.bg{
+    background-image: url("./imagesQS.jpg");
+    background-repeat: no-repeat;
+  
+    background-size: cover;
+    
+}
+.btn{
+    background-color: bisque;
+    width: 200px;
+    height: 90px;
+}
+.btn1{
+ border-color:bisque;
+ background-color: bisque;
+}
+.bt{
+    background-color: rgb(64, 88, 64);
+    width: 200px;
+    height: 90px;
+}
+
